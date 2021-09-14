@@ -1,4 +1,4 @@
-# Site-Consultorio-Dentario
+# Site Consultorio Dentario
 Criado utilizando React e navegação entre paginas com react-router-dom
 
 - Homepage
